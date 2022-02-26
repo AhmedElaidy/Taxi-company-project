@@ -10,6 +10,6 @@ Taxi Company Project readme file
 <hr>
 ## The Functionalities:
 <hr>
-- the scrolling effect
-- the scroll to top button
+- the scrolling effect. <br>
+- the scroll to top button. <br>
 <hr>
